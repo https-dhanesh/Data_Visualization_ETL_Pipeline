@@ -1,8 +1,6 @@
-### I have used YOUR_USER and YOUR_PASSWORD instead of my credentials while pushing the code
+# End-to-End Data Pipeline
 
-# End-to-End Data Pipeline (KaStack Intern Task)
-
-This project is a complete, end-to-end data pipeline built for the KaStack Data Engineer internship task. It extracts data from multiple sources (CSVs and a self-built API), loads it into a Postgres database, transforms it into analytics-ready tables, and visualizes it in Grafana. The entire pipeline is orchestrated by Prefect.
+This project is a complete, end-to-end data pipeline. It extracts data from multiple sources (CSVs and a self-built API), loads it into a Postgres database, transforms it into analytics-ready tables, and visualizes it in Grafana. The entire pipeline is orchestrated by Prefect.
 
 ## 🏛️ Project Architecture
 
